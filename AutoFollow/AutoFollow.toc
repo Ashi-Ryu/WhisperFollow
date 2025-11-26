@@ -1,7 +1,0 @@
-## Interface: 30300
-## Title: AutoFollow
-## Notes: Automatically follows a player who whispers a key phrase
-## Version: 1.4
-## Author: Ashi-Ryu
-## SavedVariables: AutoFollowSettings
-AutoFollow.lua
