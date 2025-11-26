@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: WhisperFollow
+## Notes: Automatically follows a player who whispers a key phrase
+## Version: 2.0
+## Author: Ashi-Ryu
+## SavedVariables: WhisperFollowSettings
+WhisperFollow.lua
